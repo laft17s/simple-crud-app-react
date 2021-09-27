@@ -42,3 +42,62 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# SIMPLE CRUD APLICATION USING REACT + REDUX
+
+<br />
+
+#### (APLICACIÓN CRUD SIMPLE USANDO REACT + REDUX) 
+##### Code by LAFT | Desarrollado por LAFT
+<br />
+
+<hr />
+
+## `Before to start | Antes de empezar`
+
+<br />
+
+<b>Before any test in the code or preview of the content, you must have [NODE](https://nodejs.org/en/) installed on your computer.</b>
+
+Antes de cualquier prueba en el código o previsualización del contenido, se debe tener instalado [NODE](https://nodejs.org/es/) en tu compuntador.
+
+- https://nodejs.org/en/
+
+<br />
+
+## `Project description | Descripción del proyecto`
+
+<br />
+
+<b>After cloning the project, open the folder in your preferred editor and in the integrated terminal run the following commands:</b>
+
+Luego de clonar el proyecto, abra la carpeta en su editor de preferencia y en la terminal integrada ejecute los siguientes comandos:
+
+<br />
+
+<h5 style="color: orange">Terminal</span>
+
+```
+[ npm i ]       : Node modules install | Instala los módulos de Node.js
+[ npm start ]   : Run Project | Ejecuta el proyecto
+```
+
+<br />
+
+## `Download links | Enlaces de descarga`
+
+<br />
+
+Add download links...
+
+<br />
+
+
+## `Contact and social networks | Contacto y redes sociales`
+
+<br />
+
+Add  social networks...
+
+<br />
